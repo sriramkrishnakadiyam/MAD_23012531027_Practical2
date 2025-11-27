@@ -30,8 +30,7 @@ The application provides real-time feedback for each lifecycle event using three
 
 1. Logcat Output
 For every lifecycle event, a message is printed to Logcat. You can filter by the tag ActivityLifeCycle to see a clean sequence of events as you interact with the app.
-
-image
+![image alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_Practical2/blob/2a4b2c920add9ee2fbb22fae4e6cecdea2057b14/Screenshot%202025-11-27%20135045.png)
 2. Snackbar and Toast Message Output
 A Toast and a Snackbar message are displayed on the screen for each lifecycle event, providing immediate visual feedback directly within the app's UI.
 
