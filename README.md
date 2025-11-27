@@ -33,25 +33,4 @@ For every lifecycle event, a message is printed to Logcat. You can filter by the
 ![image alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_Practical2/blob/2a4b2c920add9ee2fbb22fae4e6cecdea2057b14/Screenshot%202025-11-27%20135045.png)
 2. Snackbar and Toast Message Output
 A Toast and a Snackbar message are displayed on the screen for each lifecycle event, providing immediate visual feedback directly within the app's UI.
-
-Screenshot_20250929_215151
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 1 star
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Kotlin
-100.0%
-Footer
+![image alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_Practical2/blob/5656047e60b20303d62444a77a914ec4315ed43c/Screenshot%202025-11-27%20135607.png)
